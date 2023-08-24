@@ -1,0 +1,48 @@
+﻿
+#lalin {
+    width: 10%;
+    grid-area: imgLaline;
+    /* margin-right: 65%; */
+    /* margin-left: 50%; */
+    /* margin-top: 3%; */
+}
+
+input {
+    margin-top: 1%;
+    margin-bottom: 4%;
+}
+/* #type{
+        margin-right: 50%;
+        margin-top: 1%;
+    } */
+/* #hacnes{
+        margin-top: 3%;
+       
+         margin-right: 30%; 
+    }  */
+#ADD {
+    margin-right: 55%;
+    font-size: large;
+    font-weight: lighter;
+}
+/* body{
+        background:url("..\..\images\public\ללין-removebg.png" );
+    } */ 
+/* .inline{
+        display: inline;
+    } */
+
+table {
+    margin: auto;
+    margin-top: 5%;
+    font-size: larger;
+}
+
+td {
+    padding: 30px;
+}
+
+input {
+    border: 3px solid rgb(153, 170, 158);
+    border-radius: 15%;
+}

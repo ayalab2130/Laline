@@ -1,0 +1,67 @@
+﻿body {
+    direction: rtl;
+    font-family: Arial,sans-serif;
+    margin: 0;
+    background-color: beige;
+}
+#myBody{
+    padding-bottom:4%;
+}
+#divForLalineWord {
+    margin-top: 1.5%;
+    margin-bottom: 2%;
+    /*background-color: #ece5e5;*/
+    background-color: peachpuff;
+}
+
+#lalinWord {
+    display: block;
+    margin: auto;
+}
+
+
+
+#lalin {
+    width:26%;
+    grid-area: imgLaline;
+    margin-right: 50%;
+    margin-left: 5%;
+    padding-top: 10%;
+}
+
+#rishum {
+    padding: 10%;
+    padding-right: 15%;
+    grid-area: rishum;
+    font-size: smaller;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#imgOfBasket {
+    width: 10%;
+   /* padding-right:3%;
+    padding-bottom:2%;*/
+}
+
+
+bottom {
+    /*background-color: #ece5e5;*/
+    background-color: peachpuff;
+    display: grid;
+    grid-template-areas: "rishum imgLaline ";
+}
+#ishur {
+    color: black;
+}
+
+#manegerPage {
+    color: gray;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+
+
+
+

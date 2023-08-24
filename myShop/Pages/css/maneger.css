@@ -1,0 +1,31 @@
+﻿#lalin {
+    width: 40%;
+    grid-area: imgLaline;
+    margin-right: 65%;
+    /* margin-left: 50%; */
+    margin-top: 3%;
+}
+
+#enterOfaddP {
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#manegerPage {
+    color: black;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    display: flex;
+    margin-right: 25%;
+}
+
+#pas {
+    padding-left: 7%;
+    padding-right: 5%;
+}
+
+#pasUser, #nameUser {
+    border: 3px solid rgb(153, 170, 158);
+    border-radius: 15%;
+}
